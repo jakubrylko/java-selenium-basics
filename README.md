@@ -12,3 +12,4 @@ In this project, I would like to share some basic test automation exercises with
 * [Exercise 10](https://github.com/jakubrylko/java-selenium-basics/blob/main/Zad10.java)
 * [Exercise 11](https://github.com/jakubrylko/java-selenium-basics/blob/main/Zad11.java)
 * [Exercise 12](https://github.com/jakubrylko/java-selenium-basics/blob/main/Zad12.java)
+* [Configuration](https://github.com/jakubrylko/java-selenium-basics/blob/main/pom.xml)
