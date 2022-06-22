@@ -1,1 +1,1 @@
-# java-selenium-basics
+# Java / Selenium Basics
