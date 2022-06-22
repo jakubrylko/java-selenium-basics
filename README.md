@@ -1,1 +1,1 @@
-# Java / Selenium Basics
+# Selenium Basics with Java
