@@ -3,7 +3,6 @@ In this project, I would like to share some basic exercises with [Selenium WebDr
 
 ## Content:
 * [Task list](https://github.com/jakubrylko/java-selenium-basics/blob/main/selenium-basics-tasks.pdf)
-
 * [Exercise 4](https://github.com/jakubrylko/java-selenium-basics/blob/main/Zad4.java)
 * [Exercise 5](https://github.com/jakubrylko/java-selenium-basics/blob/main/Zad5.java)
 * [Exercise 6](https://github.com/jakubrylko/java-selenium-basics/blob/main/Zad6.java)
